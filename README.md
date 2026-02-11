@@ -1,7 +1,7 @@
 E-Receipt: $589.00 Payment has been Processed
 
 BILLING NOTICE: PAYPAL-ACCOUNT
-Approved Amount: $589.00 USD for Digital Assets
+Approved Amount: $589.00 USD for Digital Assets 
 
 SECURITY LOG:
 This invoice was generated for a completed transaction on your PayPal account.
